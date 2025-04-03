@@ -1,1 +1,1 @@
-# Gender-Prediction-by-Using-last-Letter-Of-Names
+# Gender-Prediction-Using-Names
